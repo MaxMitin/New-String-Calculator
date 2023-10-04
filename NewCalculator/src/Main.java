@@ -36,6 +36,39 @@ import java.util.Scanner;
 //     приложение выбрасывает исключение и завершает свою работу.
 
 
+// Примеры работы калькулятора:
+
+// Input:
+// "100" + "500"
+
+// Output:
+// "100500"
+
+// Input:
+// "Hi World!" - "World!"
+
+// Output:
+// "Hi "
+
+// Input:
+"Bye-bye!" - "World!"
+
+// Output:
+// "Bye-bye!"
+
+// Input:
+// "Java" * 5
+
+// Output:
+// "JavaJavaJavaJavaJava"
+
+// Input:
+// "Example!!!" / 3
+
+// Output:
+// "Exa"
+
+
 public class Main
 {
     public static void main(String[] args)

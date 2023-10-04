@@ -38,34 +38,34 @@ import java.util.Scanner;
 
 // Примеры работы калькулятора:
 
-// Input:
+// Ввод:
 // "100" + "500"
 
-// Output:
+// Итог:
 // "100500"
 
-// Input:
+// Итог:
 // "Hi World!" - "World!"
 
-// Output:
+// Итог:
 // "Hi "
 
-// Input:
-"Bye-bye!" - "World!"
+// Итог:
+//  "Bye-bye!" - "World!"
 
-// Output:
+// Итог:
 // "Bye-bye!"
 
-// Input:
+// Итог:
 // "Java" * 5
 
-// Output:
+// Итог:
 // "JavaJavaJavaJavaJava"
 
-// Input:
+// Ввод:
 // "Example!!!" / 3
 
-// Output:
+// Итог:
 // "Exa"
 
 
